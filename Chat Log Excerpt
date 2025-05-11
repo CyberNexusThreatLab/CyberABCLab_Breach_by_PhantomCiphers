@@ -1,0 +1,7 @@
+# Slack Channel: #internal-dev
+
+[ncole]  Hey, can you remove the test endpoint `/dev/api/testuser` before Friday’s demo?
+[mpierce]  Already done. Also cleaned up the logs.
+[esharpe]  Reminder: don’t commit secrets to GitLab again 😅
+
+# Exported on: 2025-04-20
