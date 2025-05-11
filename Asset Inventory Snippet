@@ -1,0 +1,13 @@
+# CyberABCLab - Dev Environment Asset List
+
+[Web Frontend]
+- Host: web01.cyberabclab.com
+- IP: 192.168.88.11
+- SSH User: devops
+- Last patch: 2025-03-29
+
+[DB Server]
+- Host: db01.cyberabclab.com
+- IP: 192.168.88.12
+- MySQL Admin: root
+- Status: Password reset pending
