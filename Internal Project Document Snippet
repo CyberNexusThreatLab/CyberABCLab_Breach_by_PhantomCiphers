@@ -1,0 +1,10 @@
+Project: Athena IDS Upgrade
+Owner: Dr. Nathan Cole (CEO)
+
+- Deployment scheduled for: 2025-04-22
+- Vendor: RedSentinel Security
+- Access key for dev server: athenadev@1234 (revoked)
+- VPN IPs: 10.22.31.14/28
+- Notes: Backend admin panel accessible via https://admin.cyberabclab.com
+
+-- Confidential --
