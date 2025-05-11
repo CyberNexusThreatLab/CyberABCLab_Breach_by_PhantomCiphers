@@ -1,0 +1,5 @@
+EmployeeID,FullName,Email,Role,Department
+2001,Nathan Cole,ncole@cyberabclab.com,Chief Executive Officer,Executive
+2002,Emily Sharpe,esharpe@cyberabclab.com,Chief Information Security Officer,Security
+2003,Morgan Pierce,mpierce@cyberabclab.com,Lead Developer,Engineering
+2004,Lena Carter,lcarter@cyberabclab.com,System Admin,IT
