@@ -2,5 +2,6 @@ commit 2f34fa8 Update API Auth
 Author: mpierce@cyberabclab.com
 Date:   2025-04-15
 
-- removed hardcoded token "SuperSecretKey2025"
+- removed hardcoded token "SuperSecretKey2025osint:google-dorking
+"
 - note: old admin route still active at /dev/admin_login
